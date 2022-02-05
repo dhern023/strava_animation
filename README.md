@@ -32,3 +32,6 @@ Inspired by a few of these projects.
 3. https://github.com/better-data-science/data-science-for-cycling
 4. https://towardsdatascience.com/how-to-make-an-animated-gif-map-in-python-using-folium-and-imageio-91d3fc60d084
 5. https://github.com/anitagraser/movingpandas/issues/103
+
+# Demo
+
