@@ -35,3 +35,4 @@ Inspired by a few of these projects.
 
 # Demo
 
+![Demo](https://github.com/dhern023/strava_animation/blob/main/docs/map.gif)
